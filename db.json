@@ -1,6 +1,4 @@
 { 
-  "result" : [{
-          "id": 1,
-          "title": "hello"
-        }]
+  "statusCode" : "OK",
+  "statusCode" : 0
 }
